@@ -11,7 +11,7 @@ def defend():
 
 
 def kung_fu():
-    return ["Punch"]
+    return ["Punch", "Kick"]
 
 
 def judo():
