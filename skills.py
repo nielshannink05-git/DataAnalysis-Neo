@@ -11,7 +11,7 @@ def defend():
 
 
 def kung_fu():
-    raise NotImplementedError
+    return ["Punch", "Kick"]
 
 
 def judo():
