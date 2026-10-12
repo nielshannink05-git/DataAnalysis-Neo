@@ -3,7 +3,7 @@ def basic_stance():
 
 
 def balance():
-    raise NotImplementedError
+    return "Balanced"
 
 
 def defend():
