@@ -15,4 +15,4 @@ def kung_fu():
 
 
 def judo():
-    raise NotImplementedError
+    return ["Safe fall", "Hip throw"]
