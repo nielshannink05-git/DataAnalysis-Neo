@@ -7,7 +7,7 @@ def balance():
 
 
 def defend():
-    raise NotImplementedError
+    return "Defense ready"
 
 
 def kung_fu():
