@@ -1,5 +1,5 @@
 def basic_stance():
-    raise NotImplementedError
+    return "Basic stance"
 
 
 def balance():
